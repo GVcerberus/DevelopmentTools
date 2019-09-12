@@ -1,0 +1,6 @@
+[submodule "dotFiles"]
+	path = dotFiles
+	url = https://github.com/GVcerberus/dotFiles.git
+[submodule "dockerFiles"]
+	path = dockerFiles
+	url = https://github.com/GVcerberus/dockerFiles.git
